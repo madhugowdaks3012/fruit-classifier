@@ -52,7 +52,7 @@ Fruit-Classifier/
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository:
+###1. Clone the repository:
 git clone https://github.com/madhugowdaks3012/Fruit-Classifier.git
 cd Fruit-Classifier
 
